@@ -6,7 +6,18 @@ body{
 
 .heading{
   background-color: blue;
-  height: 20px;
+  height: 100px;
   width: 100%;
-  
+
+}
+
+.wrapper{
+  max-width: 400px;
+  margin: 0px auto;
+
+}
+.date{
+  font-family: sans-serif; color: white;
+  float: left;
+
 }
