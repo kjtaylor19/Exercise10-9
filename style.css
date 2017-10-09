@@ -12,7 +12,7 @@ body{
 }
 
 .wrapper{
-  max-width: 400px;
+  max-width: 900px;
   margin: 0px auto;
 
 }
@@ -20,4 +20,18 @@ body{
   font-family: sans-serif; color: white;
   float: left;
 
+}
+h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
+
+.navigation{
+  font-family: sans-serif; color: white;
+  float: right;
+  text-decoration: none;
+  padding: 10px;
+  
 }
